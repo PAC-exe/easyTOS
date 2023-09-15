@@ -1,24 +1,16 @@
-# README
+# Not much of a title
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## This will just be a simple tool to parse through a websites TOS, or Privacy Policy and outline the information that you need to know.
 
-Things you may want to cover:
+### Will also be my eventual journey into neural network and language model building for specific niches
 
-* Ruby version
+#### As a reminder for myself remember the framework that we're building upon starts with:
+- Starting with a script with class methods (scripts)
+- Building out a controller to interact with that scripts methods (controllers)
+- Building out the routes that will be used (routes)
+- Building out the models (models)
+- Building out the views (views)
+- Security and OAuth (security)
+- Deploying
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Let's get it,
